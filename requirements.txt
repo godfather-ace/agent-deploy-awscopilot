@@ -1,0 +1,12 @@
+uvicorn
+langserve[server]
+pydantic>=2,<3
+langchain-core
+langgraph
+langchain
+langchain-aws
+langchain-community
+langchain-pinecone
+boto3
+langchain-cli
+poetry
