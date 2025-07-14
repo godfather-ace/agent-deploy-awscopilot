@@ -30,9 +30,11 @@ langchain serve
 copilot init \
 --app ai-agent \
 --name ai-agent \
---type 'Load Balanced Web Service' \
+--type 'Load Balanced Web Service' 
 --dockerfile './Dockerfile' 
 
+## Deploy the app
 copilot deploy
 
+## Delete the app and used AWS infra resources
 copilot app delete
