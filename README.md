@@ -34,11 +34,13 @@ copilot init \
 --dockerfile './Dockerfile' 
 
 ### Deploy the app
-
-### References
-https://ai.gopubby.com/how-i-built-deployed-an-ai-agent-with-langgraph-langserve-aws-54c4eb04c640
-
 copilot deploy
 
 ## Delete the app and used AWS infra resources
 copilot app delete
+
+### References
+- https://aws.amazon.com/containers/copilot/
+- https://aws.github.io/copilot-cli/
+- https://ai.gopubby.com/how-i-built-deployed-an-ai-agent-with-langgraph-langserve-aws-54c4eb04c640
+
