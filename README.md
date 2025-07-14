@@ -1,3 +1,6 @@
+### Reference
+https://ai.gopubby.com/how-i-built-deployed-an-ai-agent-with-langgraph-langserve-aws-54c4eb04c640
+
 ## Environment Creation
 python3 -m venv env
 source env/bin/activate
