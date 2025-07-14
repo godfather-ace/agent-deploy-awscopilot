@@ -35,7 +35,7 @@ poetry add langchain-core langgraph langchain langchain-aws langchain-community 
 poetry add langchain-core langgraph langchain langchain-aws langchain-community langchain-pinecone boto3 langchain-cli pydantic@">=2,<3"
 ```
 
-### launch the deployed app
+### Launch the deployed app
 ```
 langchain serve
 ```
