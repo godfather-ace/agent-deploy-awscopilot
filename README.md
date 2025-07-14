@@ -27,6 +27,7 @@ langchain serve
 
 ### AWS Copilot - Install AWS Copilot (using Homebrew in MAC) 
 #### Make sure to put aws credentials and put Access Key and Secret Key using aws credentials
+#### Use an IAM user (with full access or assume role) as AWS Copilot doesn't works for root user. 
 copilot init \
 --app ai-agent \
 --name ai-agent \
